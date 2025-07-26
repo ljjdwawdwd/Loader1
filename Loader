@@ -1,0 +1,8 @@
+local id = game.PlaceId
+
+local scripts = {
+    [12345678] = "https://link.to/script1.lua",
+    [87654321] = "https://link.to/script2.lua"
+}
+
+loadstring(game:HttpGet(scripts[id] or "https://link.to/default.lua"))()
