@@ -5,4 +5,4 @@ local scripts = {
     [87654321] = "https://link.to/script2.lua"
 }
 
-loadstring(game:HttpGet(scripts[id] or "https://link.to/default.lua"))()
+loadstring(game:HttpGet(scripts[id] or "https://raw.githubusercontent.com/ljjdwawdwd/Gng/refs/heads/main/gng%20key.txt"))()
