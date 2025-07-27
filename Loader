@@ -1,7 +1,7 @@
 local id = game.PlaceId
 
 local scripts = {
-    [12345678] = "https://link.to/script1.lua",
+    [12345678] = "https://raw.githubusercontent.com/ljjdwawdwd/Sigma/refs/heads/main/kdy%20gng.txt",
     [87654321] = "https://link.to/script2.lua"
 }
 
